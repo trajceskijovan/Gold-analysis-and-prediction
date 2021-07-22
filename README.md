@@ -25,6 +25,9 @@ https://github.com/trajceskijovan/Gold-analysis-and-prediction/blob/main/Gold%20
 
 # EDA
 ![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
 
 
 
