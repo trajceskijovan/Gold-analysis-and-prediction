@@ -24,43 +24,43 @@ https://github.com/trajceskijovan/Gold-analysis-and-prediction/blob/main/Gold%20
 
 
 # EDA
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
+![](samples/1.png)
+![](samples/2.png)
+![](samples/3.png)
+![](samples/4.png)
+![](samples/5.png)
+![](samples/6.png)
 
 # Financial Analysis - Daily % change distribution
-![](7.png)
+![](samples/7.png)
 
 # Financial Analysis - Daily Cummulative returns
-![](8.png)
+![](samples/8.png)
 
 # Gold Risk / Volatility Profile
-![](9.png)
+![](samples/9.png)
 
 # Regression Analysis - OLS (sample, more in code)
-![](10.png)
-![](11.png)
-![](12.png)
-![](13.png)
+![](samples/10.png)
+![](samples/11.png)
+![](samples/12.png)
+![](samples/13.png)
 
 # Gold Trading Strategy
-![](14.png)
+![](samples/14.png)
 
 # Backtesting
-![](15.png)
-![](16.png)
+![](samples/15.png)
+![](samples/16.png)
 
 # Predicting Gold prices via Facebook Prophet
-![](17.png)
-![](18.png)
-![](19.png)
-![](20.png)
-![](21.png)
+![](samples/17.png)
+![](samples/18.png)
+![](samples/19.png)
+![](samples/20.png)
+![](samples/21.png)
 
 # Email and Telegram Bot
-![](22.png)
+![](samples/22.png)
 
 
