@@ -60,7 +60,7 @@ https://github.com/trajceskijovan/Gold-analysis-and-prediction/blob/main/Gold%20
 ![](20.png)
 ![](21.png)
 
-# Email and Teleghram Bot
+# Email and Telegram Bot
 ![](22.png)
 
 
