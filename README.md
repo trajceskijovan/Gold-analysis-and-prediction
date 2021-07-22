@@ -14,7 +14,10 @@ Gold Analysis, Trading Strategy, Backtesting, Prediction and Communication in Py
 10. Communication and alert system/s (I recommend to run the Email and Telegram Bot code in PyCharm)
 
 Colab link: https://colab.research.google.com/drive/1ozfC3lx-6Eg65iC5eE6BWP8FFibIOR8W?usp=sharing
-Presentation: 
+
+Presentation (deck): https://github.com/trajceskijovan/Gold-analysis-and-prediction/blob/main/Gold%20Presentation.pdf
+
+
 
 
 
