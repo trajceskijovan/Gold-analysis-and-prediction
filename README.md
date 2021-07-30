@@ -61,6 +61,7 @@ https://github.com/trajceskijovan/Gold-analysis-and-prediction/blob/main/Gold%20
 ![](samples/21.png)
 
 # Email and Telegram Bot
+Python designed email and Telegram notification chatbot - receive price alerts, ask questions, etc.
 ![](samples/22.png)
 
 
