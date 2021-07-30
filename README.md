@@ -1,6 +1,6 @@
 # Gold-analysis-and-prediction
 
-Gold Analysis, Trading Strategy, Backtesting, Prediction and Communication in Python
+Gold Analysis, Trading Strategy, Backtesting, Prediction and Communication (Email and Telegram notification chatbot) in Python
 
 1. Load data and initial data preview
 2. EDA (Exploratory Data Analysis)
